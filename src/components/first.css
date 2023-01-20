@@ -1,0 +1,32 @@
+.numbers{
+    margin: 100px;
+    display: grid;
+    grid-area: auto;
+    justify-content: initial;
+    padding: inherit;
+    grid-template-columns: repeat(4,1fr);
+    grid-auto-rows: minmax(75px,auto);
+    color: red;
+}
+
+.display{
+    height: 80px;
+    width: 348px;
+    border-radius: 10px;
+    font-size: weight;
+    FONT-WEIGHT: 700;
+    font-size: 30px;
+}
+
+.bottom{
+    margin: 100px;
+    display: grid;
+    grid-area: auto;
+    justify-content: initial;
+    padding: inherit;
+    grid-template-columns: repeat(4,1fr);
+    grid-auto-rows: minmax(75px,auto);
+    color: red;
+    
+
+}
